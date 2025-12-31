@@ -3,7 +3,7 @@
 html.rtl {background-color: #7e2b57;}
  
 :root {
-        --color-general: #6f043c;
+        --color-general: #04b22d;
         --color-drop: #63646d;
         --color-Headline: #6f043c;
         --color-body: #eee;          
@@ -12,7 +12,7 @@ html.rtl {background-color: #7e2b57;}
  
 /*======Fonts======*/
 
-@font-face {
+@font-face { 
   font-family: 'FontAwesome';
   src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),
        url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff');
