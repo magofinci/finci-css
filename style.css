@@ -195,7 +195,7 @@ a:hover {color:#666}
 .PTitle {
     width: 95%;
     height: auto;
-    color: #6f043c;
+    color: var(--color-general);
     margin: 0 auto;
     font-size: 15px;
      display: -webkit-box;
@@ -686,7 +686,7 @@ p#tapl {
               width: 50%;
               height: 50px;
               padding: 8px 8px 0 0;
-              background-color: #6f043c;
+              background-color: var(--color-general);
               color: #fff;
               text-align: center;
               cursor: pointer;
@@ -711,7 +711,7 @@ table {
 
 /* رؤوس الأعمدة */
 table thead tr {
-  background-color: #6f043c;
+  background-color: var(--color-general);
   color: #ffffff;
   font-weight: bold;
   text-align: center;
@@ -823,7 +823,7 @@ table {font-size: 70%;}
                         display: table;
                         height: 50px;
                         margin: 0 auto 20px;
-                        background-color: #6f043c;
+                        background-color: var(--color-general);
                         overflow: hidden;
                         color: #fff;
                         padding: 11px 10px 2px 10px;
@@ -912,7 +912,7 @@ p#comment-title {
     border-radius: 5px;
 }
 
-#comments .PWtitle {display: block;height: 58px;padding: 15px;background-color: #6f043c;color: #444;border-radius:0;clear: both;}
+#comments .PWtitle {display: block;height: 58px;padding: 15px;background-color:var(--color-general) ;color: #444;border-radius:0;clear: both;}
 a#Acomment {color: #fff; margin: 0 10px 0 5px;}
 #comments .PWtitle span {
                           display:block;
@@ -1006,7 +1006,7 @@ background-color: #ebd7bb;
           position: absolute;
           overflow: hidden;
 		  border-top: 10px solid #77425e;
-          background-color: #6f043c;
+          background-color: var(--color-general);
       }
 		
  #iconfoot {
