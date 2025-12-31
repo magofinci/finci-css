@@ -130,19 +130,19 @@ body {
 }
 
 .MaxWid-header {
+        width: 100%;
         max-width: 1100px;
         position: relative;
-        margin: 0 auto;
-        width: 1100px;
+        margin: 0 auto;       
         clear: both;
         padding: 0;
        }
 
 .MaxWid {
+        width: 100%;
         max-width: 1100px;
         position: relative;
-        margin: 0 auto;
-        width: 1100px;
+        margin: 0 auto;       
         clear: both;
         padding: 0;
        }
