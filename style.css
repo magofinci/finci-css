@@ -829,7 +829,7 @@ table {font-size: 70%;}
 .gemini-item a { text-decoration: none; color: #444; }
   
 
-#blog-pager{
+#blog-pager{ 
             display: table;
             margin: 0 auto;
             clear: both;
